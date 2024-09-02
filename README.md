@@ -34,8 +34,8 @@
   <a href="https://www.linkedin.com/in/akshat-dubey20/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-dubey" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/user9296zN/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user9296zN/" height="30" width="40" />
+  <a href="https://leetcode.com/u/akshatdy/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akshatdy/" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/akshatdubey20ady/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/akshatdubey20ady/" height="30" width="40" />
